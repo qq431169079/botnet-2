@@ -1,0 +1,53 @@
+[Config]
+Compilator.SaveAll=0
+Compilator.Capture=0
+Compilator.HideOutput=0
+Compilator.LogType=0
+DefaultCPIndex=0
+LogtoEnd=1
+DontOpen=0
+AbsolutePath=0
+FileFormat=0
+ProjectFilesOnly=0
+[Project tree]
+conio
+	+conio
+		conio.c
+		conio_test.c
+		conio2.h
+		Makefile
+		constream
+		constream_test.cpp
+		titledoc
+[Open project files]
+0=conio2.h
+1=conio.c
+2=conio_test.c
+3=constream
+4=constream_test.cpp
+5=titledoc
+6=Makefile
+[Selected Project Files]
+Main=
+Selected=conio2.h
+[conio2.h]
+TopLine=1
+Caret=1,1
+[conio.c]
+TopLine=1
+Caret=1,1
+[conio_test.c]
+TopLine=1
+Caret=1,1
+[constream]
+TopLine=1
+Caret=1,1
+[constream_test.cpp]
+TopLine=1
+Caret=1,1
+[titledoc]
+TopLine=1
+Caret=1,1
+[Makefile]
+TopLine=1
+Caret=1,1

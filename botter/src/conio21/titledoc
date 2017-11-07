@@ -1,0 +1,73 @@
+/**
+ * @mainpage
+ * Borland-style CONIO implementation for MinGW/Dev-C++.
+ *
+ * <a href='http://conio.sf.net/'>Homepage</a>
+ *
+ * Send any improvements to this library to
+ * <a href='mailto:michal@molhanec.net'>me</a>, I'll do new release
+ * of this devpak.
+ *
+ * For the example of use, look at example in the
+ * <tt>Examples\\conio\\conio_test.c</tt> subdirectory
+ * of your Dev-C++ directory. It's simple:
+ * <ol>
+ * <li>Include <tt>conio2.h</tt>.
+ * <li>Link with <tt>libconio.a</tt> (add <tt>-lconio</tt> parameter to linker).
+ * </ol>
+ *
+<h2>Functions defined already in MinGW's <tt>conio.h</tt></h2>
+<p>
+<tt>conio2.h</tt> automatically includes <tt>conio.h</tt>.
+It also provides several #defines so you
+can use all these functions without underscores.
+</p>
+<pre>
+char* _cgets (char*);
+int _cprintf (const char*, ...);
+int _cputs (const char*);
+int _cscanf (char*, ...);
+
+int _getch (void);
+int _getche (void);
+int _kbhit (void);
+int _putch (int);
+int _ungetch (int);
+
+int getch (void);
+int getche (void);
+int kbhit (void);
+int putch (int);
+int ungetch (int);
+</pre>
+ *
+ * About the makefile:
+ * The makefile is written for gcc and GNU make.
+ * The "all" target passes -m32 option to the gcc.
+ * The "all64" target passes -m64 option to the gcc.
+ *
+ * @author Hongli Lai <hongli@telekabel.nl>
+ * @author tkorrovi <tkorrovi@altavista.net> on 2002/02/26.
+ * @author Andrew Westcott <ajwestco@users.sourceforge.net>
+ * @author Michal Molhanec <michal@molhanec.net>
+ *
+ * @version 2.1
+<pre>
+ Changes in 2.1 (2013-12-05 MM):
+   * clreol() fix (clear also the color attribute)
+   * new functions clearkeybuf(), delay(), switchbackground()
+       and flashbackground()
+   * gettext & puttext code simplified
+   * 64bit targets in the makefile
+</pre>
+<pre>
+ Changes in 2.0:
+  * make library aware of console window size
+  * make library aware of console window position in console buffer
+  * added support for UNICODE Win32 API
+  * added constream-like manipulators for C++
+  * implemented highvideo(), insline(), lowvideo(), movetext(), normvideo(),
+      gettextinfo(), getpass(), cputsxy(), putchxy(), inittextinfo()
+  * fixed delline()
+</pre>
+ */
