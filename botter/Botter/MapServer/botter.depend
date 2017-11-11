@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1483123385 source:c:\users\windows\desktop\botter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<winsock2.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+
+1483209032 source:c:\users\windows\desktop\botter\manager\main.c
+	<stdio.h>
+	<stdlib.h>
+	<winsock2.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+
+1483400951 source:c:\users\windows\desktop\botter\mapserver\main.c
+	<stdio.h>
+	<stdlib.h>
+	<winsock2.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+
+1483401354 source:c:\users\windows\desktop\shared\botter\mapserver\main.c
+	<stdio.h>
+	<stdlib.h>
+	<winsock2.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+

@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1486594271 source:c:\users\windows\desktop\botter\src\chained_list.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"chained_list.h"
+
+1484691135 c:\users\windows\desktop\botter\src\chained_list.h
+
+1386437076 source:c:\users\windows\desktop\botter\src\conio21\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1386356978 c:\users\windows\desktop\botter\src\conio21\conio2.h
+	<conio.h>
+	<windows.h>
+
+1484086728 source:c:\users\windows\desktop\botter\src\display.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<windows.h>
+	"conio.h"
+	"global.h"
+	"map.h"
+	"display.h"
+
+1486476930 c:\users\windows\desktop\botter\src\global.h
+	<stdbool.h>
+
+1484062215 c:\users\windows\desktop\botter\src\map.h
+
+1484059312 c:\users\windows\desktop\botter\src\display.h
+
+1486498154 source:c:\users\windows\desktop\botter\src\file.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"global.h"
+	"file.h"
+
+1484418562 c:\users\windows\desktop\botter\src\file.h
+
+1486400534 source:c:\users\windows\desktop\botter\src\main.c
+	<stdio.h>
+	<windows.h>
+	<winsock2.h>
+	"global.h"
+	"map.h"
+	"file.h"
+	"display.h"
+	"router.h"
+	"sniffer.h"
+
+1486490131 c:\users\windows\desktop\botter\src\router.h
+
+1486594462 c:\users\windows\desktop\botter\src\sniffer.h
+
+1486490607 source:c:\users\windows\desktop\botter\src\map.c
+	<stdio.h>
+	<stdbool.h>
+	<windows.h>
+	<winsock2.h>
+	"mapaddr.h"
+	"global.h"
+	"map.h"
+
+1486594824 c:\users\windows\desktop\botter\src\mapaddr.h
+
+1486594271 source:c:\users\windows\desktop\botter\src\sniffer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	"sniffer.h"
+	"file.h"
+
+1486594271 source:c:\users\windows\desktop\botter\src\router.c
+	<stdio.h>
+	<stdbool.h>
+	<time.h>
+	<dirent.h>
+	<winsock2.h>
+	"global.h"
+	"chained_list.h"
+	"file.h"
+	"router.h"
+
+1486590877 source:c:\users\windows\desktop\botter\src\bot.c
+	<stdio.h>
+	<windows.h>
+	<winsock2.h>
+	"global.h"
+	"map.h"
+	"file.h"
+	"router.h"
+	"sniffer.h"
+

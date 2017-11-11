@@ -1,0 +1,18 @@
+body {margin:0; padding:0;background-color: lightgray; font-family: sans-serif; background-size: cover;}
+p {margin: 0;}
+#connected {display: inline;}
+#msg { display: inline;font-size: 12px;margin-left: 5px;}
+#wrapper {width: 500px; margin: auto; box-shadow: 0 0 5px black; margin-top: 200px;}
+header { height: 25px;  background-color: gray; color: lightgray; padding: 0 5px;}
+header span{float: right; position: relative; top: 5px;}
+h1 {margin: 0; font-size: 22px; display: inline;}
+#content { height: 500px; background-color: #DADADA; overflow-y: scroll; overflow-x: hidden;}
+footer {background-color: gray; color: darkgray;padding: 0 5px;text-align: right;}
+table {width: 100%;}
+td {padding: 0 5px;}
+td p {position: relative; bottom: 3px; left: 8px;}
+.c1 {background-color: #DDD;}
+.c2 {background-color: #D5D5D5;}
+td:hover {background-color: #EEE;}
+.connected { width: 5px; height: 5px; background-color: green; border-radius: 50%; position: relative; top:10px;}
+.disconnected {  width: 5px; height: 5px; background-color: red; border-radius: 50%; position: relative; top:10px; }

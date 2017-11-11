@@ -1,0 +1,499 @@
+# depslib dependency file v1.0
+1483371537 source:c:\users\windows\desktop\botterultimateversionfinaleforever\main.c
+	"global.h"
+	"map.h"
+	"display.h"
+
+1483311690 c:\users\windows\desktop\botterultimateversionfinaleforever\init.h
+	<stdio.h>
+	<windows.h>
+	<winsock2.h>
+	"conio.h"
+
+1483361223 source:c:\users\windows\desktop\botterultimateversionfinaleforever\init.c
+	"global.h"
+	"init.h"
+
+1483370567 c:\users\windows\desktop\botterultimateversionfinaleforever\global.h
+	<stdbool.h>
+
+1386437076 source:c:\users\windows\desktop\botterultimateversionfinaleforever\conio21\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1386356978 c:\users\windows\desktop\botterultimateversionfinaleforever\conio21\conio2.h
+	<conio.h>
+	<windows.h>
+
+1483371166 source:c:\users\windows\desktop\botterultimateversionfinaleforever\file.c
+	"file.h"
+
+1483371184 c:\users\windows\desktop\botterultimateversionfinaleforever\file.h
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+	"global.h"
+
+1483361563 c:\users\windows\desktop\botterultimateversionfinaleforever\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<windows.h>
+	"map.h"
+	"global.h"
+
+1483364507 source:c:\users\windows\desktop\botterultimateversionfinaleforever\menu.c
+	"menu.h"
+
+1483361896 c:\users\windows\desktop\botterultimateversionfinaleforever\map.h
+	<stdio.h>
+	<windows.h>
+	<winsock2.h>
+	"conio.h"
+
+1483363944 source:c:\users\windows\desktop\botterultimateversionfinaleforever\map.c
+	"global.h"
+	"map.h"
+
+1483371401 source:c:\users\windows\desktop\botterultimateversionfinaleforever\display.c
+	"display.h"
+
+1483367748 c:\users\windows\desktop\botterultimateversionfinaleforever\display.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<windows.h>
+	"map.h"
+	"global.h"
+
+1386437076 source:c:\users\windows\desktop\botter\pirate\conio21\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1386356978 c:\users\windows\desktop\botter\pirate\conio21\conio2.h
+	<conio.h>
+	<windows.h>
+
+1483371401 source:c:\users\windows\desktop\botter\pirate\display.c
+	"display.h"
+
+1483367748 c:\users\windows\desktop\botter\pirate\display.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<windows.h>
+	"map.h"
+	"global.h"
+
+1483361896 c:\users\windows\desktop\botter\pirate\map.h
+	<stdio.h>
+	<windows.h>
+	<winsock2.h>
+	"conio.h"
+
+1483370567 c:\users\windows\desktop\botter\pirate\global.h
+	<stdbool.h>
+
+1483371166 source:c:\users\windows\desktop\botter\pirate\file.c
+	"file.h"
+
+1483371184 c:\users\windows\desktop\botter\pirate\file.h
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+	"global.h"
+
+1483371537 source:c:\users\windows\desktop\botter\pirate\main.c
+	"global.h"
+	"map.h"
+	"display.h"
+
+1483401384 source:c:\users\windows\desktop\botter\pirate\map.c
+	"global.h"
+	"map.h"
+
+1386437076 source:c:\users\windows\desktop\shared\botter\pirate\conio21\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1386356978 c:\users\windows\desktop\shared\botter\pirate\conio21\conio2.h
+	<conio.h>
+	<windows.h>
+
+1484059463 source:c:\users\windows\desktop\shared\botter\pirate\display.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<windows.h>
+	"conio.h"
+	"global.h"
+	"map.h"
+	"display.h"
+
+1484059312 c:\users\windows\desktop\shared\botter\pirate\display.h
+
+1484062215 c:\users\windows\desktop\shared\botter\pirate\map.h
+
+1484064275 c:\users\windows\desktop\shared\botter\pirate\global.h
+	<stdbool.h>
+
+1484076162 source:c:\users\windows\desktop\shared\botter\pirate\file.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"global.h"
+	"file.h"
+
+1484076109 c:\users\windows\desktop\shared\botter\pirate\file.h
+
+1484078600 source:c:\users\windows\desktop\shared\botter\pirate\main.c
+	<stdio.h>
+	<windows.h>
+	<winsock2.h>
+	"global.h"
+	"map.h"
+	"file.h"
+	"display.h"
+	"router.h"
+
+1484079449 source:c:\users\windows\desktop\shared\botter\pirate\map.c
+	<stdio.h>
+	<stdbool.h>
+	<windows.h>
+	<winsock2.h>
+	"global.h"
+	"display.h"
+	"map.h"
+
+1288882724 c:\users\windows\desktop\lib\libxml2-2.7.8.win32\include\libxml\parser.h
+	<stdarg.h>
+	<libxml/xmlversion.h>
+	<libxml/tree.h>
+	<libxml/dict.h>
+	<libxml/hash.h>
+	<libxml/valid.h>
+	<libxml/entities.h>
+	<libxml/xmlerror.h>
+	<libxml/xmlstring.h>
+	<libxml/encoding.h>
+	<libxml/xmlIO.h>
+	<libxml/globals.h>
+
+1308516038 c:\users\windows\desktop\lib\libxml2-2.7.8.win32\include\libxml\xmlversion.h
+	<libxml/xmlexports.h>
+	<ansidecl.h>
+
+1286868332 c:\users\windows\desktop\lib\libxml2-2.7.8.win32\include\libxml\xmlexports.h
+
+1286868332 c:\users\windows\desktop\lib\libxml2-2.7.8.win32\include\libxml\tree.h
+	<stdio.h>
+	<libxml/xmlversion.h>
+	<libxml/xmlstring.h>
+	<libxml/xmlregexp.h>
+	<libxml/xmlmemory.h>
+
+1286868332 c:\users\windows\desktop\lib\libxml2-2.7.8.win32\include\libxml\xmlstring.h
+	<stdarg.h>
+	<libxml/xmlversion.h>
+
+1286868332 c:\users\windows\desktop\lib\libxml2-2.7.8.win32\include\libxml\xmlregexp.h
+	<libxml/xmlversion.h>
+	<libxml/tree.h>
+	<libxml/dict.h>
+
+1253809920 c:\users\windows\desktop\lib\libxml2-2.7.8.win32\include\libxml\dict.h
+	<libxml/xmlversion.h>
+	<libxml/tree.h>
+
+1286868332 c:\users\windows\desktop\lib\libxml2-2.7.8.win32\include\libxml\xmlmemory.h
+	<stdio.h>
+	<libxml/xmlversion.h>
+	<libxml/threads.h>
+	<libxml/globals.h>
+
+1286868332 c:\users\windows\desktop\lib\libxml2-2.7.8.win32\include\libxml\threads.h
+	<libxml/xmlversion.h>
+	<libxml/globals.h>
+
+1286868332 c:\users\windows\desktop\lib\libxml2-2.7.8.win32\include\libxml\globals.h
+	<libxml/xmlversion.h>
+	<libxml/parser.h>
+	<libxml/xmlerror.h>
+	<libxml/SAX.h>
+	<libxml/SAX2.h>
+	<libxml/xmlmemory.h>
+	<libxml/threads.h>
+
+1286868332 c:\users\windows\desktop\lib\libxml2-2.7.8.win32\include\libxml\xmlerror.h
+	<libxml/parser.h>
+
+1253809920 c:\users\windows\desktop\lib\libxml2-2.7.8.win32\include\libxml\sax.h
+	<stdio.h>
+	<stdlib.h>
+	<libxml/xmlversion.h>
+	<libxml/parser.h>
+	<libxml/xlink.h>
+
+1253809920 c:\users\windows\desktop\lib\libxml2-2.7.8.win32\include\libxml\xlink.h
+	<libxml/xmlversion.h>
+	<libxml/tree.h>
+
+1253809920 c:\users\windows\desktop\lib\libxml2-2.7.8.win32\include\libxml\sax2.h
+	<stdio.h>
+	<stdlib.h>
+	<libxml/xmlversion.h>
+	<libxml/parser.h>
+	<libxml/xlink.h>
+
+1253809920 c:\users\windows\desktop\lib\libxml2-2.7.8.win32\include\libxml\hash.h
+	<libxml/xmlversion.h>
+	<libxml/parser.h>
+	<libxml/dict.h>
+
+1286868332 c:\users\windows\desktop\lib\libxml2-2.7.8.win32\include\libxml\valid.h
+	<libxml/xmlversion.h>
+	<libxml/xmlerror.h>
+	<libxml/tree.h>
+	<libxml/list.h>
+	<libxml/xmlautomata.h>
+	<libxml/xmlregexp.h>
+
+1253809920 c:\users\windows\desktop\lib\libxml2-2.7.8.win32\include\libxml\list.h
+	<libxml/xmlversion.h>
+
+1253809920 c:\users\windows\desktop\lib\libxml2-2.7.8.win32\include\libxml\xmlautomata.h
+	<libxml/xmlversion.h>
+	<libxml/tree.h>
+	<libxml/xmlregexp.h>
+
+1286868332 c:\users\windows\desktop\lib\libxml2-2.7.8.win32\include\libxml\entities.h
+	<libxml/xmlversion.h>
+	<libxml/tree.h>
+
+1288886032 c:\users\windows\desktop\lib\libxml2-2.7.8.win32\include\libxml\encoding.h
+	<libxml/xmlversion.h>
+	<iconv.h>
+	<unicode/ucnv.h>
+	<libxml/tree.h>
+
+1146774214 c:\users\windows\desktop\lib\iconv-1.9.2.win32\include\iconv.h
+	"iconv.h"
+	<stddef.h>
+	<errno.h>
+
+1253809920 c:\users\windows\desktop\lib\libxml2-2.7.8.win32\include\libxml\xmlio.h
+	<stdio.h>
+	<libxml/xmlversion.h>
+	<libxml/globals.h>
+	<libxml/tree.h>
+	<libxml/parser.h>
+	<libxml/encoding.h>
+
+1484083655 c:\users\windows\desktop\shared\botter\pirate\router.h
+
+1484084013 source:c:\users\windows\desktop\shared\botter\pirate\router.c
+	<stdio.h>
+	<winsock2.h>
+
+1386437076 source:c:\users\windows\desktop\pirate\conio21\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1386356978 c:\users\windows\desktop\pirate\conio21\conio2.h
+	<conio.h>
+	<windows.h>
+
+1484086728 source:c:\users\windows\desktop\pirate\display.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<windows.h>
+	"conio.h"
+	"global.h"
+	"map.h"
+	"display.h"
+
+1484133494 c:\users\windows\desktop\pirate\global.h
+	<stdbool.h>
+
+1484062215 c:\users\windows\desktop\pirate\map.h
+
+1484059312 c:\users\windows\desktop\pirate\display.h
+
+1484418755 source:c:\users\windows\desktop\pirate\file.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"global.h"
+	"file.h"
+
+1484418562 c:\users\windows\desktop\pirate\file.h
+
+1486400534 source:c:\users\windows\desktop\pirate\main.c
+	<stdio.h>
+	<windows.h>
+	<winsock2.h>
+	"global.h"
+	"map.h"
+	"file.h"
+	"display.h"
+	"router.h"
+	"sniffer.h"
+
+1484674049 c:\users\windows\desktop\pirate\router.h
+
+1486387552 source:c:\users\windows\desktop\pirate\map.c
+	<stdio.h>
+	<stdbool.h>
+	<windows.h>
+	<winsock2.h>
+	"mapaddr.h"
+	"global.h"
+	"display.h"
+	"map.h"
+
+1484742695 source:c:\users\windows\desktop\pirate\router.c
+	<stdio.h>
+	<stdbool.h>
+	<time.h>
+	<dirent.h>
+	<winsock2.h>
+	"global.h"
+	"chained_list.h"
+	"display.h"
+	"file.h"
+	"router.h"
+
+1484685980 c:\users\windows\desktop\pirate\sniffer.h
+
+1484252595 source:c:\users\windows\desktop\pirate\sniffer.c
+	<stdio.h>
+	<stdlib.h>
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	"sniffer.h"
+
+1484734545 source:c:\users\windows\desktop\pirate\chained_list.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"chained_list.h"
+
+1484691135 c:\users\windows\desktop\pirate\chained_list.h
+
+1486387574 c:\users\windows\desktop\pirate\mapaddr.h
+
+1486594271 source:c:\users\windows\desktop\botter\src\chained_list.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"chained_list.h"
+
+1484691135 c:\users\windows\desktop\botter\src\chained_list.h
+
+1386437076 source:c:\users\windows\desktop\botter\src\conio21\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1386356978 c:\users\windows\desktop\botter\src\conio21\conio2.h
+	<conio.h>
+	<windows.h>
+
+1486594661 source:c:\users\windows\desktop\botter\src\display.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<windows.h>
+	"conio.h"
+	"global.h"
+	"map.h"
+	"display.h"
+
+1486476930 c:\users\windows\desktop\botter\src\global.h
+	<stdbool.h>
+
+1484062215 c:\users\windows\desktop\botter\src\map.h
+
+1486594588 c:\users\windows\desktop\botter\src\display.h
+
+1486498154 source:c:\users\windows\desktop\botter\src\file.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"global.h"
+	"file.h"
+
+1484418562 c:\users\windows\desktop\botter\src\file.h
+
+1486400534 source:c:\users\windows\desktop\botter\src\main.c
+	<stdio.h>
+	<windows.h>
+	<winsock2.h>
+	"global.h"
+	"map.h"
+	"file.h"
+	"display.h"
+	"router.h"
+	"sniffer.h"
+
+1486490131 c:\users\windows\desktop\botter\src\router.h
+
+1486594462 c:\users\windows\desktop\botter\src\sniffer.h
+
+1486490607 source:c:\users\windows\desktop\botter\src\map.c
+	<stdio.h>
+	<stdbool.h>
+	<windows.h>
+	<winsock2.h>
+	"mapaddr.h"
+	"global.h"
+	"map.h"
+
+1486594824 c:\users\windows\desktop\botter\src\mapaddr.h
+
+1486594271 source:c:\users\windows\desktop\botter\src\router.c
+	<stdio.h>
+	<stdbool.h>
+	<time.h>
+	<dirent.h>
+	<winsock2.h>
+	"global.h"
+	"chained_list.h"
+	"file.h"
+	"router.h"
+
+1486485571 source:c:\users\windows\desktop\botter\src\sniffer.c
+	<stdio.h>
+	<stdlib.h>
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	"sniffer.h"
+
+1486594607 source:c:\users\windows\desktop\botter\src\pirate.c
+	<stdio.h>
+	<windows.h>
+	<winsock2.h>
+	"global.h"
+	"map.h"
+	"file.h"
+	"display.h"
+	"router.h"
+	"sniffer.h"
+
